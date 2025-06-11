@@ -1,0 +1,26 @@
+.to-do{
+    background: transparent;
+    color: black;
+    border: none;
+    width: 50%;
+
+}
+.to-do-id{
+    
+    background: transparent;
+    color: black;
+    border: none;
+    width: 25%;
+}
+.action{
+    width: 25%;
+}
+.update{
+    height: 30px;
+
+    /* align-items: center;  */
+}
+.updated{
+    width: 100%;
+    height: 0px;
+}
