@@ -1,4 +1,4 @@
-https://rutvik1012.github.io/ToDo-CRUD-/
+https://rutvik1012.github.io/ToDo-CRUD/
 
 
 🚀 Features
